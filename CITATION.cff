@@ -4,7 +4,8 @@ authors:
   - family-names: "Memon"
     given-names: "Ghulam Fatima"
     affiliation: "Department of Computer Science, Virtual University of Pakistan"
-title: "hnscc-single-cell-isi"
+title: "Single-Cell Transcriptomic Characterization of Tumor
+Immune States and an Immune State Index in HNSCC"
 version: "1.0.0"
 date-released: "2026-09-23"
 url: "https://github.com/raja016956/hnscc-single-cell-isi"
