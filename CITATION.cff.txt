@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you utilize this computational single-cell pipeline or code framework, please cite it as below."
+authors:
+  - family-names: "Memon"
+    given-names: "Ghulam Fatima"
+    affiliation: "Department of Computer Science, Virtual University of Pakistan"
+title: "hnscc-single-cell-isi"
+version: "1.0.0"
+date-released: "2026-09-23"
+url: "https://github.com/raja016956/hnscc-single-cell-isi"
+repository-code: "https://github.com/raja016956/hnscc-single-cell-isi"
+keywords:
+  - "single-cell-rna-seq"
+  - "tumor-microenvironment"
+  - "immune-modeling"
+  - "hnscc"
+  - "immune-state-index"
+abstract: >-
+  A computational single-cell RNA-seq repository designed for 
+  transcriptomic analysis, visualization, and modeling of immune cell states 
+  and the evaluation of an exploratory Immune State Index (ISI) in 
+  head and neck squamous cell carcinoma.
